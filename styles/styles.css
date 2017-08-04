@@ -149,6 +149,7 @@ button:focus {
 	width: 50%;
 	box-sizing: border-box;
 	height: 927px;
+	overflow: hidden;
 }
 article{
 	padding: 10px;
